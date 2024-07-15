@@ -1,0 +1,62 @@
+name: newsapp
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.6
+  flutter_bloc: ^8.1.6
+  dio: ^5.5.0+1
+  curved_navigation_bar: ^1.0.6
+  equatable: ^2.0.5
+  build_runner: ^2.4.11
+  shared_preferences: ^2.2.3
+  hive_generator: ^2.0.1
+  hive_flutter: ^1.1.0
+  hive: ^2.2.3
+  get_it: ^7.7.0
+  stacked_card_carousel: ^0.0.4
+  flutter_launcher_icons: ^0.13.1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^4.0.0
+
+
+flutter_icons:
+    android: true
+    ios: true
+    image_path: "assets/image/icon.png"
+    adaptive_icon_background: "#001f3f888888888888888"  # Optional
+    adaptive_icon_foreground: "assets/image/icon.png"
+
+flutter:
+
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+     - assets/image/
+     - assets/image/navbar/
+
+
+
+# Optional

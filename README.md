@@ -1,16 +1,5 @@
 # newsapp
 
-A new Flutter project.
+A News Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+UI Used: https://www.figma.com/design/CtS0yIVSZCK0W70D8B5qnf/News-App-UI-Design-(Insight-360)-(Community)?node-id=0-1&t=3BCwP6gDbXWLcb4r-0
